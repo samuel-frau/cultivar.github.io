@@ -1,3 +1,1 @@
-git config --global user.name <samuel-frau>
-git config --global user.email <samuelfrau@hotmail.it>
-git clone https://github.com/samuel-frau/web.git
+wget http://lapresaperilculo.altervista.org/blog/wp-content/uploads/2014/03/1978761_769972183012878_1791683788_n.jpg
